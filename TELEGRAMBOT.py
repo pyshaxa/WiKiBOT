@@ -4,7 +4,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
-API_TOKEN = '7930145827:AAFwAbvfN7iD0dApXXkeRpbLvh-STrqk8ss'
+API_TOKEN = 'YOUR TOKEN'
 wikipedia.set_lang('uz')
 
 # Configure logging
